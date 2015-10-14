@@ -1,0 +1,28 @@
+#masthead {
+  font-family: Georgia, Times, serif;
+  font-style: italic;
+}
+#masthead h1 {
+  font-weight: bold;
+  font-size: 3em;
+  font-style: italic;
+}
+#masthead h2 {
+  font-weight: bolder;
+  font-size: 1.5em;
+}
+#page-title h1 {
+  font-family: Georgia, Times, serif;
+  font-size: 1.8em;
+  font-weight: bold;
+}
+h2 {
+  font-family: Georgia, Times, serif;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
+body {
+  font-family: Verdana, Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: normal;
+}
