@@ -16,7 +16,7 @@ body {
 }
 
 #page-header img {
-  padding-top: 1em;
+  vertical-align: middle;
 }
 
 #page-header h1{
